@@ -1,0 +1,19 @@
+body{
+    height:40%;
+}
+#centered-content{
+    margin-left: 40%;
+    margin-top: 15%;
+    width: 305px;
+}
+#footer{
+    margin-top:200px ;
+
+}
+#header{
+    text-align: right;
+}
+
+#right-footer{
+    float: right;
+}
